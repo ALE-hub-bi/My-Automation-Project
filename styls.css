@@ -1,0 +1,171 @@
+.list{
+
+
+	position:absolute;
+	left:-7%;
+	top:0;
+	background-color:#cccccc;
+	height:1000; 
+	position:fixed;
+	
+	
+	
+	
+	
+	
+	
+}
+.relative{
+	position:relative;
+	right:100;
+	
+}
+.relative2{
+	position:relative;
+	left:8;
+	
+}
+.usedTec{
+	padding-left:27%;
+}
+
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  
+}
+img{
+	position:relative;
+	right:60px;
+	border:3px solid #ccc;
+	position:relative;
+	top:5%;
+	width:250px;
+	
+}
+ul{
+	position:relative;
+	right:50;
+	font-size:18px;
+}
+
+
+body{
+	
+	
+	background-color:red;	
+	
+	
+}
+
+div{
+	padding-left:230px;
+	color:black;
+	font-family;
+	
+    
+   
+	
+}
+
+.move{
+	padding-left:650;
+	line-height:30px
+	
+}
+.font-size{
+	font-size:200px;
+}
+h1{
+	
+	
+	color:black;
+	font-family;
+}
+h2{
+	color:blue;
+}
+h3{
+	padding-left:650px;
+}
+  
+	
+}
+h4{
+	position: absolute;
+    font-size:30px;
+
+}
+.p{
+	padding-left:150px;
+	color:#333333;
+	font-size:16px;
+	
+
+}
+span{
+	padding-left:230;
+}
+video{
+   border:3px solid black;
+	
+	
+}
+
+p{
+	
+	color:gray;
+	
+	
+}
+
+.list a{
+	
+    text-decoration:none;
+}
+.pcolor{
+	color:#333333;
+	font-size:16;
+	 font-family: Arial, sans-serif;
+}
+a:hover{
+	color:red;
+	
+}
+
+a:link {
+	color:blue;
+  text-decoration:none;
+  
+}
+
+div a:hover{
+     font-size:20px;
+	color:green;
+}
+/* mouse over link */
+p a:hover {
+  color: green;
+}
+
+p a{ 
+	
+    text-decoration:none;
+}
+h2 a:hover{ 
+	
+    text-decoration:none;
+	color: green;
+}
+li{
+	color: green;
+	list-style:none;
+}
+b{
+	font-size:18;
+}
+
+ul li :hover {background: #ccd9ff;}
+
